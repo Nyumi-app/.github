@@ -3,7 +3,7 @@
 Nyumi é uma bot de música para Discord com personalidade dark/cute: entra no canal de voz, toca suas faixas e mantém a call fluindo.
 
 <p align="center">
-  <img src="photos/foto4.png" alt="Nyumi com coracoes em estilo dark cute" width="520" />
+  <img src="foto4.png" alt="Nyumi com coracoes em estilo dark cute" width="520" />
 </p>
 
 ## Adicionar ao servidor
